@@ -22,8 +22,8 @@ Instalación
 
 Clonar el repositorio
 
-git clone https://github.com/tu-repositorio/angular-dotnet-mongodb.git
-cd angular-dotnet-mongodb
+git clone https://github.com/tu-repositorio/Angular-.Net.git
+cd Angular-.Net
 
 Configurar el Backend (.NET)
 
@@ -36,11 +36,13 @@ dotnet restore
 Configura las variables de entorno para la conexión con MongoDB Atlas
 
 # Crea un archivo `appsettings.json` en la carpeta `backend` y agrega tu cadena de conexión a MongoDB:
+```
 {
   "ConnectionStrings": {
     "MongoDb": "tu-cadena-de-conexion-de-MongoDB-Atlas"
   }
 }
+```
 
 # Ejecutar el backend
 dotnet run
