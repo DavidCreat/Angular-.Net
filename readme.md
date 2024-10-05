@@ -22,9 +22,12 @@ Instalación
 
 Clonar el repositorio
 
-git clone https://github.com/tu-repositorio/Angular-.Net.git
+```
+
+git clone https://github.com/Angular-.Net.git
 cd Angular-.Net
 
+```
 Configurar el Backend (.NET)
 
 # Ve a la carpeta del backend
@@ -45,12 +48,18 @@ Configura las variables de entorno para la conexión con MongoDB Atlas
 ```
 
 # Ejecutar el backend
+
+```
 dotnet run
+```
 
 # El backend estará disponible en
-http://localhost:5002
 
-Configurar el Frontend (Angular)
+```
+http://localhost:5002
+```
+
+## Configurar el Frontend (Angular)
 
 # Ve a la carpeta del frontend
 cd frontend
