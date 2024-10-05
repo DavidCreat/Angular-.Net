@@ -16,6 +16,7 @@ Este proyecto utiliza Angular para el frontend y .NET como backend API REST, con
 - Angular CLI (versión 13 o superior)
 - .NET 6
 - MongoDB Atlas (Base de datos en la nube)
+```
 
 Instalación
 
@@ -45,7 +46,7 @@ Configura las variables de entorno para la conexión con MongoDB Atlas
 dotnet run
 
 # El backend estará disponible en
-http://localhost:5000
+http://localhost:5002
 
 Configurar el Frontend (Angular)
 
