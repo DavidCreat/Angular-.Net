@@ -132,7 +132,7 @@ Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
 
 David Fonseca - [@eas1music](https://www.youtube.com/@eas1music) - david.fonseca12p@gmail.com
 
-Enlace del Proyecto: [https://github.com/tu-usuario/tu-repo](https://github.com/tu-usuario/tu-repo)
+Enlace del Proyecto: [https://github.com/DavidCreat/Angular-.Net](https://github.com/DavidCreat/Angular-.Net)
 
 ---
 
